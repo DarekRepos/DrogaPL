@@ -1,0 +1,33 @@
+[general]
+name=DrogaPL
+qgisMinimumVersion=3.16
+description=Geometric road design plugin based on Polish technical standards (Dz.U. 2016 poz. 124)
+description[pl]=Wtyczka do geometrycznego projektowania dróg zgodnie z polskimi normami technicznymi
+version=0.1.0
+author=Your Name
+email=you@example.com
+
+about=DrogaPL supports horizontal and vertical alignment design, cross sections and
+    earthwork volume calculation for roads, following Polish technical requirements
+    for public roads (Rozporzadzenie Ministra Infrastruktury ws. warunkow technicznych
+    jakim powinny odpowiadac drogi publiczne).
+about[pl]=DrogaPL wspomaga projektowanie osi drogi, niwelety, lukow poziomych i pionowych,
+    przekrojow poprzecznych oraz obliczanie kubatur robot ziemnych zgodnie z polskimi
+    warunkami technicznymi dla drog publicznych.
+
+tracker=https://github.com/yourname/DrogaPL/issues
+repository=https://github.com/yourname/DrogaPL
+homepage=https://github.com/yourname/DrogaPL
+
+tags=road,roads,design,geometry,poland,polska,drogi,topografia,alignment,earthworks
+
+category=Vector
+icon=icon.png
+
+experimental=True
+deprecated=False
+
+hasProcessingProvider=no
+
+changelog=0.1.0
+    - Initial skeleton: plugin registration, dockwidget panel, road standards module.
