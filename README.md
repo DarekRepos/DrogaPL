@@ -90,5 +90,6 @@ DrogaPL/
 
 ## Licencja
 
-TODO: wybierz licencję (np. GPL-3.0, zgodnie z konwencją większości
-wtyczek QGIS w oficjalnym repozytorium).
+To oprogramowanie jest udostępnione na licencji GNU General Public License
+w wersji 3 lub późniejszej (GPL-3.0-or-later).
+Zobacz plik `LICENSE` w katalogu projektu po pełny tekst licencji.
